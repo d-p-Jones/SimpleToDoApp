@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDo1</string>
+    <string name="add_todo_button_desc" />
+</resources>
